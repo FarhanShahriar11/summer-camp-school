@@ -1,0 +1,97 @@
+[
+    {
+        "_id": "1",
+        "image": "https://images.unsplash.com/photo-1624880357913-a8539238245b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "name": "Football Skills",
+        "students": "220",
+        "category": "popularClass"
+        
+    },
+    {
+        "_id": "2",
+        "image": "https://wallpapers.com/images/hd/ab-de-villiers-royal-challengers-team-cyam5ye0jih9imiw.jpg",
+        "name": "Perfect Timing Shoot",
+        "students": "365",
+        "category": "popularClass"
+        
+    },
+    {
+        "_id": "3",
+        "image": "https://images.unsplash.com/photo-1626248801379-51a0748a5f96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "name": "Football Speed Skills",
+        "students": "320",
+        "category": "popularClass"
+        
+    },
+    {
+        "_id": "4",
+        "image": "https://images.unsplash.com/photo-1543195061-21592b39548b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Goalkeeper",
+        "students": "280",
+        "category": "popularClass"
+        
+    },
+    {
+        "_id": "5",
+        "image": "https://images.googlycricket.net/wp-content/uploads/2018/04/Litton-Das-fielding-drill-pics.jpg",
+        "name": "Wicket Keeping",
+        "students": "240",
+        "category": "popularClass"
+        
+    },
+    {
+        "_id": "6",
+        "image": "https://media.newyorker.com/photos/5ca2268d0bcd414f14274d81/4:3/w_2387,h_1790,c_limit/Marzorati-FedererMiamiOpen.jpg",
+        "name": "Tennis",
+        "students": "290",
+        "category": "popularClass"
+        
+    },
+    {
+        "_id": "7",
+        "image": "https://i.guim.co.uk/img/media/3a095c4becc75b875ee687d10342aea4bdbf545d/103_295_1356_814/master/1356.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=db0ae8d394fc1fc97a2f45a6cdfe0577",
+        "name": "Spin Bowling",
+        "students": "295",
+        "category": "popularClass"
+        
+    },
+    {
+        "_id": "8",
+        "image": "https://images.unsplash.com/photo-1622659097509-4d56de14539e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "name": "Dribbling Skills",
+        "students": "260",
+        "category": "popularClass"
+        
+    },
+    {
+        "_id": "9",
+        "image": "https://e0.365dm.com/16/03/1600x900/taskin-ahmed-bangladesh_3433946.jpg?20160319124644",
+        "name": "Fast Bowling",
+        "students": "310",
+        "category": "popularClass"
+        
+    },
+    {
+        "_id": "10",
+        "image": "https://images.unsplash.com/photo-1633313236093-beebdd1a5e80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=779&q=80",
+        "name": "Badminton",
+        "students": "330",
+        "category": "popularClass"
+        
+    },
+    {
+        "_id": "11",
+        "image": "https://img.cricketworld.com/images/f-055667/shakib-al-hasan-(7).jpg",
+        "name": "Cricket Fielding",
+        "students": "120",
+        "category": "popularClass"
+        
+    },
+    {
+        "_id": "12",
+        "image": "https://images.unsplash.com/photo-1610736342165-4eeb4aef66ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=327&q=80",
+        "name": "Perfect Shooting Skills",
+        "students": "190",
+        "category": "popularClass"
+    }
+]

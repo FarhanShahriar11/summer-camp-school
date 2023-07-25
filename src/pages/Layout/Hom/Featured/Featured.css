@@ -1,0 +1,25 @@
+/* poppins, oswald font */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+/* 
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+
+.title-font {
+    font-family: 'Oswald', sans-serif;
+}
+
+.title-info {
+    font-family: 'Poppins', sans-serif;
+}
+
+.featured-banner {
+    background:  linear-gradient(to bottom, rgba(20, 1, 14, 0.918), rgba(34, 2, 26, 0.73)),
+    url('../../../../assets/featured/istockphoto.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-attachment: fixed;
+}

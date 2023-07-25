@@ -1,0 +1,251 @@
+[
+    {
+        "_id": "1",
+        "image": "https://images.unsplash.com/photo-1624880357913-a8539238245b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "skills": "Football Skills",
+        "students": "220",
+        "instructorName": "Paul Curtis",
+        "price": "310",
+        "availableSeats": "12",
+        "category": "class"
+        
+    },
+    {
+        "_id": "2",
+        "image": "https://wallpapers.com/images/hd/ab-de-villiers-royal-challengers-team-cyam5ye0jih9imiw.jpg",
+        "skills": "Perfect Timing Shoot",
+        "students": "365",
+        "instructorName": "Harry Brown",
+        "price": "330",
+        "availableSeats": "13",
+        "category": "class"
+        
+    },
+    {
+        "_id": "3",
+        "image": "https://images.unsplash.com/photo-1626248801379-51a0748a5f96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "skills": "Football Speed Skills",
+        "students": "320",
+        "instructorName": "Kevin Revaldo",
+        "price": "350",
+        "availableSeats": "11",
+        "category": "class"
+        
+    },
+    {
+        "_id": "4",
+        "image": "https://images.unsplash.com/photo-1543195061-21592b39548b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "skills": "Goalkeeper",
+        "students": "280",
+        "instructorName": "Kevin Owl",
+        "price": "200",
+        "availableSeats": "18",
+        "category": "class"
+        
+    },
+    {
+        "_id": "5",
+        "image": "https://images.googlycricket.net/wp-content/uploads/2018/04/Litton-Das-fielding-drill-pics.jpg",
+        "skills": "Wicket Keeping",
+        "students": "240",
+        "instructorName": "Stein Joni",
+        "price": "270",
+        "availableSeats": "17",
+        "category": "class"
+        
+    },
+    {
+        "_id": "6",
+        "image": "https://media.newyorker.com/photos/5ca2268d0bcd414f14274d81/4:3/w_2387,h_1790,c_limit/Marzorati-FedererMiamiOpen.jpg",
+        "skills": "Tennis",
+        "students": "290",
+        "instructorName": "Alex Carey",
+        "price": "340",
+        "availableSeats": "20",
+        "category": "class"
+        
+    },
+    {
+        "_id": "7",
+        "image": "https://i.guim.co.uk/img/media/3a095c4becc75b875ee687d10342aea4bdbf545d/103_295_1356_814/master/1356.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=db0ae8d394fc1fc97a2f45a6cdfe0577",
+        "skills": "Spin Bowling",
+        "students": "295",
+        "instructorName": "Abraham",
+        "price": "290",
+        "availableSeats": "14",
+        "category": "class"
+        
+    },
+    {
+        "_id": "8",
+        "image": "https://images.unsplash.com/photo-1622659097509-4d56de14539e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "skills": "Dribbling Skills",
+        "students": "260",
+        "instructorName": "Steven",
+        "price": "330",
+        "availableSeats": "16",
+        "category": "class"
+        
+    },
+    {
+        "_id": "9",
+        "image": "https://e0.365dm.com/16/03/1600x900/taskin-ahmed-bangladesh_3433946.jpg?20160319124644",
+        "skills": "Fast Bowling",
+        "students": "310",
+        "instructorName": "Dimitri",
+        "price": "360",
+        "availableSeats": "11",
+        "category": "class"
+        
+    },
+    {
+        "_id": "10",
+        "image": "https://images.unsplash.com/photo-1633313236093-beebdd1a5e80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=779&q=80",
+        "skills": "Badminton",
+        "students": "380",
+        "instructorName": "Jordan Leo",
+        "price": "299",
+        "availableSeats": "19",
+        "category": "class"
+        
+    },
+    {
+        "_id": "11",
+        "image": "https://img.cricketworld.com/images/f-055667/shakib-al-hasan-(7).jpg",
+        "skills": "Cricket Fielding",
+        "students": "120",
+        "instructorName": "Brian",
+        "price": "160",
+        "availableSeats": "18",
+        "category": "class"
+        
+    },
+    {
+        "_id": "12",
+        "image": "https://images.unsplash.com/photo-1610736342165-4eeb4aef66ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=327&q=80",
+        "skills": "Perfect Shooting Skills",
+        "students": "190",
+        "instructorName": "Edward",
+        "price": "200",
+        "availableSeats": "15",
+        "category": "class"
+    },
+    {
+        "_id": "13",
+        "image": "http://shippo.imoodev.com/wp-content/uploads/2023/03/outdoor-head-and-shoulders-portrait-of-smiling-mature-man-e1683722278504.jpg",
+        "instructorName": "Edward",
+        "skills": "Football Performance Director",
+        "email": "edward@gmail.com",
+        "category": "instructor",
+        "students": "220"
+    },
+    {
+        "_id": "14",
+        "image": "http://shippo.imoodev.com/wp-content/uploads/2023/03/head-and-shoulders-portrait-of-businessman-in-office-e1683722282790.jpg",
+        "instructorName": "Brian",
+        "skills": "Operations Director",
+        "email": "brian@gmail.com",
+        "category": "instructor",
+        "students": "365"
+    },
+
+    {
+        "_id": "15",
+        "image": "http://shippo.imoodev.com/wp-content/uploads/2023/03/bald-african-american-man-e1683723454711.jpg",
+        "instructorName": "Jordan Leo",
+        "skills": "Academy Director",
+        "email": "jordan@gmail.com",
+        "category": "instructor",
+        "students": "320"
+    },
+
+    {
+        "_id": "16",
+        "image": "http://shippo.imoodev.com/wp-content/uploads/2023/03/portrait-of-a-man-travelling-the-lofoten-e1683722286143.jpg",
+        "instructorName": "Dimitri",
+        "skills": "Football Performance Director",
+        "email": "dimitri@gmail.com",
+        "category": "instructor",
+        "students": "290"
+    },
+
+    {
+        "_id": "17",
+        "image": "http://shippo.imoodev.com/wp-content/uploads/2023/03/portrait-of-man--e1683722290126.jpg",
+        "instructorName": "Steven",
+        "skills": "Football Performance Director",
+        "email": "steven@gmail.com",
+        "category": "instructor",
+        "students": "280"
+    },
+
+    {
+        "_id": "18",
+        "image": "http://shippo.imoodev.com/wp-content/uploads/2023/03/portrait-of-a-man-smiling-e1683723459884.jpg",
+        "instructorName": "Abraham",
+        "skills": "Football Performance Director",
+        "email": "abraham@gmail.com",
+        "category": "instructor",
+        "students": "240"
+    },
+
+    {
+        "_id": "19",
+        "image": "http://shippo.imoodev.com/wp-content/uploads/2023/03/man-with-beard.jpg",
+        "instructorName": "Alex Carey",
+        "skills": "Football Performance Director",
+        "email": "alex@gmail.com",
+        "category": "instructor",
+        "students": "295"
+    },
+
+    {
+        "_id": "20",
+        "image": "http://shippo.imoodev.com/wp-content/uploads/2023/03/handsome-bearded-man-portrait-outdoors-e1683722294681.jpg",
+        "instructorName": "Stein Joni",
+        "skills": "Football Performance Director",
+        "email": "stein@gmail.com",
+        "category": "instructor",
+        "students": "260"
+    },
+
+    {
+        "_id": "21",
+        "image": "http://shippo.imoodev.com/wp-content/uploads/2023/03/handsome-man-e1683723467247.jpg",
+        "instructorName": "Kevin Owl",
+        "skills": "Football Performance Director",
+        "email": "kevin@gmail.com",
+        "category": "instructor",
+        "students": "310"
+    },
+
+    {
+        "_id": "22",
+        "image": "http://shippo.imoodev.com/wp-content/uploads/2023/03/portrait-of-smiling-mature-man-e1683723463506.jpg",
+        "instructorName": "Kevin Revaldo",
+        "skills": "Football Performance Director",
+        "email": "revaldo@gmail.com",
+        "category": "instructor",
+        "students": "330"
+    },
+
+    {
+        "_id": "23",
+        "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "instructorName": "Harry Brown",
+        "skills": "Football Performance Director",
+        "email": "brown@gmail.com",
+        "category": "instructor",
+        "students": "120"
+    },
+
+    {
+        "_id": "24",
+        "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "instructorName": "Paul Curtis",
+        "skills": "Football Performance Director",
+        "email": "curtis@gmail.com",
+        "category": "instructor",
+        "students": "190"
+    }
+]

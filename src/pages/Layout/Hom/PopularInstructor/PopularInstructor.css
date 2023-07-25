@@ -1,0 +1,15 @@
+/* poppins, oswald font */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+/* 
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+
+.title-font {
+    font-family: 'Oswald', sans-serif;
+}
+
+.title-info {
+    font-family: 'Poppins', sans-serif;
+}
