@@ -22,7 +22,7 @@ const Register = () => {
                         console.log('user profile info updated')
                         const saveUser = {name: data.name, email: data.email, role: "student", image: data.photoURL}
 
-                        fetch('http://localhost:5000/users', {
+                        fetch('https://summer-camp-server-livid-one.vercel.app/users', {
                             method: "POST",
                             headers: {
                                 "content-type": "application/json"

@@ -17,7 +17,7 @@ const useClass = () => {
         //     return res.data;
         // },
         queryFn: async () => {
-            const res = await fetch(`http://localhost:5000/classes/student/${user?.email}`, {
+            const res = await fetch(`https://summer-camp-server-livid-one.vercel.app/classes/student/${user?.email}`, {
                 headers: {
                     authorization: `bearer ${token}`
                 }

@@ -14,13 +14,13 @@ const ManageClass = () => {
     const [myClasses, setMyClasses] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:5000/manageClass')
+        fetch('https://summer-camp-server-livid-one.vercel.app/manageClass')
             .then((res) => res.json())
             .then((data) => setMyClasses(data));
     }, [user]);
 
     const handleApprove = async (id) => {
-        await axios.patch(`http://localhost:5000/actionBtn/${id}`, {
+        await axios.patch(`https://summer-camp-server-livid-one.vercel.app/actionBtn/${id}`, {
             action: "approve"
         })
         .then(res => {

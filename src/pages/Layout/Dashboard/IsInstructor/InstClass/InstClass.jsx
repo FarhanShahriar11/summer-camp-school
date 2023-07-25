@@ -12,7 +12,7 @@ const InstClass = () => {
 
     useEffect( () => {
         const instructorClass = async () => {
-            await axios.get(`http://localhost:5000/addClass/instructor/${user?.email}`)
+            await axios.get(`https://summer-camp-server-livid-one.vercel.app/addClass/instructor/${user?.email}`)
             .then(res => setMyClasses(res.data))
         }
         instructorClass();

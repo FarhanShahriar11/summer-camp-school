@@ -8,7 +8,7 @@ const usePopular = () => {
     const [loading, setLoading] = useState(true);
 
     useEffect( () => {
-        fetch('http://localhost:5000/popular')
+        fetch('https://summer-camp-server-livid-one.vercel.app/popular')
         .then(res => res.json())
         .then(data => {
             setPopular(data);

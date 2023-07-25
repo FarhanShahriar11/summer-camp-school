@@ -10,7 +10,7 @@ const PopularInstructor = () => {
     
 
     useEffect( () => {
-        fetch('http://localhost:5000/users/instructor')
+        fetch('https://summer-camp-server-livid-one.vercel.app/users/instructor')
         .then(res => res.json())
         .then(data => {
             setPopularInstructor(data);

@@ -42,7 +42,7 @@ const AddClass = () => {
       .post(imageBbURL, formData)
       .then(async (res) => {
             data.imageURL = res.data.data.url;
-            await axios.post('http://localhost:5000/addClass/instructor', data,  {
+            await axios.post('https://summer-camp-server-livid-one.vercel.app/addClass/instructor', data,  {
             headers: {
                 authorization: `bearer ${token}`
             }

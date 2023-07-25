@@ -15,7 +15,7 @@ const useRole = () => {
         enabled: !loading,
 
         queryFn: async () => {
-            const res = await fetch(`http://localhost:5000/users/role/${user?.email}`,
+            const res = await fetch(`https://summer-camp-server-livid-one.vercel.app/users/role/${user?.email}`,
              {
                 headers: {
                     authorization: `bearer ${token}`

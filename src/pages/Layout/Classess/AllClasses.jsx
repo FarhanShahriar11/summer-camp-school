@@ -25,7 +25,7 @@ const AllClasses = ({classItem}) => {
         if(user && user.email) {
             const selectItem = { menuItem: _id, subCategory, imageURL, instructor, price, email: user.email }
 
-            fetch('http://localhost:5000/classes', {
+            fetch('https://summer-camp-server-livid-one.vercel.app/classes', {
                 method: "POST",
                 headers: {
                     "content-type": "application/json"
